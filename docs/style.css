@@ -5,7 +5,14 @@ body {
 }
 
 .menu {
-    
+    html {
+        font-family: "Helvetica", cursive, sans-serif;
+        background-color:#1B5B2D; 
+      }
+      h1 {
+        text-align:center;
+        color: tomato;
+      } 
 }
 
 .page {
