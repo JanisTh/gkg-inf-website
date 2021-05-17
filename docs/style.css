@@ -5,10 +5,10 @@ body {
 }
 
 .menu {
-    html {
+    
         font-family: "Helvetica", cursive, sans-serif;
-        background-color:#1B5B2D; 
-      }
+        background-color:#ec80e3; 
+      
       h1 {
         text-align:center;
         color: tomato;
