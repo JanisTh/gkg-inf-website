@@ -65,4 +65,25 @@ document.addEventListener("DOMContentLoaded", function (event) {
 ///////////////////
 // OTHER SCRIPTS //
 ///////////////////
+		var lulz = document.getElementById("JanisDuNuss");
+
+		/* Function to generate combination of password */
+		function Passwortgenerierellehl() {
+			var pass = '';
+			var str = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' +
+					'abcdefghijklmnopqrstuvwxyz0123456789@#$';
+			
+			for (i = 1; i <= 8; i++) {
+				var char = Math.floor(Math.random()
+							* str.length + 1);
+				
+				pass += str.charAt(char)
+			}
+			
+			return pass;
+		}
+
+		function chicken_Run() {
+			lulz.innerHTML = Passwortgenerierellehl();
+		}
 
