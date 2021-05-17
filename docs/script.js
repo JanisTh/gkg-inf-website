@@ -65,9 +65,9 @@ document.addEventListener("DOMContentLoaded", function (event) {
 ///////////////////
 // OTHER SCRIPTS //
 ///////////////////
-		var lulz = document.getElementById("JanisDuNuss");
+		var lulz = document.getElementById("lol");
 
-		/* Function to generate combination of password */
+		
 		function Passwortgenerierellehl() {
 			var pass = '';
 			var str = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' +
