@@ -1,6 +1,6 @@
 /* Remove the standard margin/padding of the html body */
 body {
-    margin: 0;
+    margin: 30px 50px 30px 50px;
     padding: 0;
 }
 
