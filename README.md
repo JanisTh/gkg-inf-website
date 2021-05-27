@@ -1,14 +1,14 @@
-# Titel Webseite
+# Passwort Generator
 
-Kurzbeschreibung Webseite. Was ist der Inhalt?
+Auf dieser Seite wird mit wenigen Klickes ein für sie zufällig genereriertes Passwort erstellt.
 
-## Projektplan
+## Beschreibung
 
 Detaillierte Beschreibung der geplanten Funktionalität.
 
 ### Hauptseite
 
-Skizze mit Beschreibung.
+Auf der Hauptseite (Index/Home) wird der gleiche Inhalt angezeigt. Um beim erstmaligen Betreten der Webseite bereits den Inhalt der Main Seite verfügbar ist. Mit den Buttons oben ist es möglich zu den verschiedenen Unterseiten zu gelangen. 
 
 ### Unterseite 1
 
@@ -24,13 +24,19 @@ usw...
 
 Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
-| Deadline | Name | Beschreibung |
+| 30.Mai 2021 | Janis Thüer & Milla Sambar| Projekt Webseiten Entwicklung |
 | --- | --- | --- |
-| 01.01.2021 | Vorname Name | Das wird gemacht |
-| 02.01.2021 | Vorname Name | Das wird gemacht |
-| 03.01.2021 | Vorname Name | Das wird gemacht |
-| 04.01.2021 | Vorname Name | Das wird gemacht |
-| 05.01.2021 | Vorname Name | Das wird gemacht |
+| 10.05.2021 | Milla Sambar |       Brainstorming                    |
+| 10.05.2021 | Janis Thüer  |       Skizzen Zeichnung                |
+| 17.05.2021 | Milla Sambar |       Erster Aufbau von "Home"         |
+| 17.05.2021 | Milla Sambar | Aufbau des Codes vom Passwort Generator|
+| 17.05.2021 | Janis Thüer  |       Imprint, Description Aufbau      |
+| 24.05.2021 | Janis Thüer  |       README Bearbeitung               |
+| 24.05.2021 | Milla Sambar |       Beendung Aufbau Main Code        |
+| 26.05.2021 | Janis Thüer  |       CSS Allgemein                    |
+| 26.05.2021 | Milla Sambar |       Index, Menu Gestaltung           |
+| 28.05.2021 | Janis Thüer  |       Generelle Vollendung des Projekt |
+| 30.05.2021 | Milla Sambar |       Generelle Vollendung des Projekt |
 
 ## Umsetzung
 
@@ -52,9 +58,8 @@ usw...
 
 ## Zusammenfassung
 
-Zusammenfassung mit Vergleich zwischen Planung und Umsetzung. Was hat geklappt und was nicht? Konnte der Zeitplan eingehalten werden? Konnten die Skizzen umgesetzt werden?
+In diesem Projekt konnten wir trotz der stark begrenzten Zeit ein gutes Resultat unseres Projektes erarbeiten. Wir hatten Den Zeitplan konnten wir schlussendlich nicht ganz einhalten und mussten ihn spontan in der Zeit und der Aufgabenteilung anpassen. Die Skizzen haben wir zwar beachtet uns zwar während der Arbeit aber für einzelne Änderungen entschieden, die für die Webseite mehr Sinn machen. Anfangs hatten wir probleme in der Kommunikation und der Aufgabenteilung, die aber mit steigender Erfahrung und Zeit behoben werden konnten und wir auch die Zusammenarbeit einfacher und effizientergestaltet hatten.
 
----
 
 Tipps zum README-Markdown:
 - Eine Liste kann man einfach so schreiben
