@@ -61,14 +61,10 @@ document.addEventListener("DOMContentLoaded", function (event) {
     includeHTML();
 });
 
-
-///////////////////
-// OTHER SCRIPTS //
-///////////////////
-var lulz = document.getElementById(htmljsverknüpfung);
-
-		
-		function Passwortgenerierellehl() {
+var myElements = document.getElementsByTagName("<button>"); 
+    var button = document.querySelector('button');
+    button.addEventListener("click", () => {
+        function Passwortgenerierellehl() {
 			var pass = '';
 			var str = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' +
 					'abcdefghijklmnopqrstuvwxyz0123456789@#$!?';
@@ -86,4 +82,4 @@ var lulz = document.getElementById(htmljsverknüpfung);
 		function chicken_Run() {
 			lulz.innerHTML = Passwortgenerierellehl();
 		}
-
+    }
