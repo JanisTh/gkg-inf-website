@@ -1,24 +1,15 @@
 
 body {
-    margin: 30px 50px 30px 50px;
-    padding: 0;
+  margin: 30px 50px 30px 50px;
+  padding: 0;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 17px;
+  background-position: 0%;
+  background-color: lightskyblue;
+  
 }
 
-.menu {
-    
-        font-family: "Helvetica", cursive, sans-serif;
-        background-color:#ec80e3; 
-      
-      h1 {
-        text-align:center;
-        color: violet;
-      } 
-}
 
-.page {
+  
 
-}
 
-.footer {
-
-}

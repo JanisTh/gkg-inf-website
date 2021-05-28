@@ -11,7 +11,13 @@ Das Ziel dieses Projektes ist es dem Nutzer eine angenehme Webseite zu bauen, mi
 
 ### **Hauptseite**
 
-[Bildtext]Menu.png
+![Bildtext](Menu.png)
+
+
+
+
+
+
 
 
 Hiermit wurde der Aufbau einfach skizziert.
@@ -20,14 +26,14 @@ Auf der Hauptseite (Index/Home) wird der gleiche Inhalt angezeigt. Um beim erstm
 
 ### **Beschreibung / Description**
 
-[Bildtext]Beschreibung.png
+![Bildtext](Beschreibung.png)
 
 In der beschreibung der Webseite wird der Sinn und die Funktion der Webseite erklärt.
 
 
 ### **Impressum**
 
-[Bildtext]Impressum.png
+![Bildtext](Impressum.png)
 
 Beim Impressum wurde auf eine saubere und übersichtliche Darstellung geachtet, bei der der Nutzer schnell und einfach die Daten der Ersteller bekommen kann.
 
