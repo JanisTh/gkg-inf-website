@@ -1,6 +1,5 @@
-# Milla's Passwort Generator
-
-Auf dieser Seite wird mit wenigen Klickes ein für sie zufällig genereriertes Passwort erstellt.
+#  Passwort Generator
+Ein Passwortgenerator für genug sichere Passwörter.
 
 ## **Beschreibung**
 
@@ -13,22 +12,15 @@ Das Ziel dieses Projektes ist es dem Nutzer eine angenehme Webseite zu bauen, mi
 
 ![Bildtext](Menu.png)
 
-
-
-
-
-
-
-
+Die Hauptseite ist das Herz der Website. Mit dem verlinkten javascript-Code ist es möglich, sich ein Passwort generieren zu lassen. Mit math.random werden oben definierte Ziffern gewählt und zu einem Passwort zusammengestell
 Hiermit wurde der Aufbau einfach skizziert.
-
-Auf der Hauptseite (Index/Home) wird der gleiche Inhalt angezeigt. Um beim erstmaligen Betreten der Webseite bereits den Inhalt der Main Seite verfügbar ist. Mit den Buttons oben ist es möglich zu den verschiedenen Unterseiten zu gelangen. 
+Auf der Hauptseite (Index/Home) wird der gleiche Inhalt angezeigt, damit beim erstmaligen Betreten der Webseite bereits der Inhalt der Main-Seite verfügbar ist. Mit den Linktexten oben ist es möglich zu den verschiedenen Unterseiten zu gelangen. 
 
 ### **Beschreibung / Description**
 
 ![Bildtext](Beschreibung.png)
 
-In der beschreibung der Webseite wird der Sinn und die Funktion der Webseite erklärt.
+In der Beschreibung der Webseite wird der Sinn und die Funktion eines sicheren Passwortes und dementsprechend auch unserer Webseite aufgezeigt.
 
 
 ### **Impressum**
@@ -56,43 +48,11 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wann etwas um?
 | 28.05.2021 | Janis Thüer  |       Generelle Vollendung des Projekt |
 | 30.05.2021 | Milla Sambar |       Generelle Vollendung des Projekt |
 
-## **Umsetzung**
 
-Detaillierte Beschreibung der umgesetzten Webseite.
-
-### **Hauptseite**
-
-Screenshot mit Beschreibung.
-
-### **Unterseite 1**
-
-Screenshot mit Beschreibung.
-
-### **Impressum**
-
-Screenshot mit Beschreibung.
-
-usw...
 
 ## **Zusammenfassung**
 
-In diesem Projekt konnten wir trotz der stark begrenzten Zeit ein gutes Resultat unseres Projektes erarbeiten. Wir hatten Den Zeitplan konnten wir schlussendlich nicht ganz einhalten und mussten ihn spontan in der Zeit und der Aufgabenteilung anpassen. Die Skizzen haben wir zwar beachtet uns zwar während der Arbeit aber für einzelne Änderungen entschieden, die für die Webseite mehr Sinn machen. Anfangs hatten wir probleme in der Kommunikation und der Aufgabenteilung, die aber mit steigender Erfahrung und Zeit behoben werden konnten und wir auch die Zusammenarbeit einfacher und effizientergestaltet hatten.
+In diesem Projekt konnten wir trotz der stark begrenzten Zeit ein funktionierendes Resultat unseres Projektes erarbeiten. Den Zeitplan konnten wirnicht ganz einhalten und mussten ihn spontan in der Zeit und der Aufgabenteilung anpassen. Die Skizzen haben wir beachtet uns aber während der Arbeit für einzelne Änderungen entschieden, die für die Webseite mehr Sinn ergaben. Anfangs hatten wir Probleme in der Kommunikation und der Aufgabenteilung, die aber mit steigender Erfahrung und Zeit behoben werden konnten und wir auch die Zusammenarbeit einfacher und effizienter gestaltet hatten. 
+Das Hauptziel, ein Passwortgenerator zu erstellen der für den Durchschnittsbenutzer sichere Passwörter kreiert, haben wir erreicht.
 
 
-Tipps zum README-Markdown:
-- Eine Liste kann man einfach so schreiben
-- Mit Rechtsklick auf `README.md`, `Open Preview` kann man eine Live-Vorschau des Textes sehen 
-- So schreibt man *kursiv*, **fett** und beides ***fettkursiv***
-- So kann man ein Bild einfügen: ![Bildtext](link-zum-bild.jpg)
-- So kann man einen Link einfügen [Linktext](https://google.com)
-
-So kann `einzeiliger Code` eingefügt werden.
-
-So kann mehrzeiliger Code eingefügt werden.
-```
-.test {
-    background-color: blue;
-}
-```
-
-- Weitere Hilfen gibt es hier: https://guides.github.com/features/mastering-markdown
