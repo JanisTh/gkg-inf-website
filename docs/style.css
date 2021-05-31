@@ -1,18 +1,16 @@
 body {
     position: absolute;
     right: 125px;
-    width: 200px;
-    height: 120px;
+    width: 300px;
+    height: 100px;
   background-image: url("https://cdn.pixabay.com/photo/2018/04/24/22/33/key-3348307_1280.jpg");
   
 }
-.button {
- background-color: #e7e7e7; 
-  border: none;
+button {
+    transition-duration: 0.4s;
+  }
+  
+button:hover {
+  background-color: #696d69; /* Green */
   color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
+  }
